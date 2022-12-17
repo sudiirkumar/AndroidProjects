@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textPadding">8dp</dimen>
+    <dimen name="normalMargin">6dp</dimen>
+    <dimen name="lineSpace" >1.5</dimen>
+</resources>

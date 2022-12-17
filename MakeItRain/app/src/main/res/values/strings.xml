@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MakeItRain</string>
+    <string name="money_you_have">Money you have:</string>
+    <string name="crorepati_bane">Crorepati Bane!</string>
+    <string name="MoneyValue">Rs. 2000</string>
+    <string name="show_info">Show info</string>
+</resources>

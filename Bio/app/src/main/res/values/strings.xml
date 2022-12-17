@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bio</string>
+    <string name="name">Sudhir Kumar</string>
+    <string name="bio">Hi! I am Sudhir Kumar. I am learning to build android apps and its so much fun.I have a special interest in building android apps and also things related to android. I want to be an AOSP developer. I am also a teacher and a college student. I love teaching and Computer science related stuff and when both them comes together, it\'s like i forget how the time flows.</string>
+    <string name="hobbi_text_hint">Enter your hobbies</string>
+    <string name="done_text">Done</string>
+    <string name="image_discription">Andy robo</string>
+</resources>
