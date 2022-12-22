@@ -35,8 +35,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void showInfo(View view) {
-        Snackbar.make(money,"Looto re!!",-2)
-                .setAction("Learn More!", view1 -> Toast.makeText(MainActivity.this,"Bhag yaha se",Toast.LENGTH_LONG)
+        Snackbar.make(money,"Have fun!!",-2)
+                .setAction("Learn More!", view1 -> Toast.makeText(MainActivity.this,"Hello",Toast.LENGTH_LONG)
                         .show())
                 .show();
     }
